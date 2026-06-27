@@ -18,3 +18,6 @@ It simulates basic SIEM-style log processing used in cybersecurity environments.
 ---
 
 ## 📂 Project Structure
+main.py      → Main script
+logs.txt     → Sample logs
+report.txt   → Output report
