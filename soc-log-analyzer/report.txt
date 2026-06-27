@@ -1,0 +1,18 @@
+Python Security Log Report
+==============================
+
+ ICMP Test Alert : 18
+ Nmap Scan Detected : 12
+ SSH Brute Force Attempt : 6
+ SQL Injection Attempt : 6
+ DNS Enumeration : 6
+ Port Scan Detected : 6
+ FTP Login Attempt : 6
+192.168.1.10 : 18
+192.168.1.15 : 18
+192.168.1.30 : 6
+192.168.1.50 : 6
+192.168.1.40 : 6
+192.168.1.60 : 6
+
+Total Alerts :60
